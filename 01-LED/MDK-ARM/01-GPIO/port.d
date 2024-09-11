@@ -1,0 +1,12 @@
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+01-gpio\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+01-gpio\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+01-gpio\port.o: ../Core/Inc/FreeRTOSConfig.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+01-gpio\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
